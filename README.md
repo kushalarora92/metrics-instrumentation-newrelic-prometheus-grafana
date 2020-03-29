@@ -28,5 +28,6 @@ admin / admin_password
 - https://gist.github.com/ejhsu/ed743393e76ebcd0761f7d614eda2cfc
 - https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana (works with workarounds)
 - https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-ubuntu-14-04
+- https://www.robustperception.io/how-does-a-prometheus-counter-work
 
 
